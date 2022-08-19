@@ -6,6 +6,3 @@
 
 <img width="613" alt="大廳" src="https://user-images.githubusercontent.com/77271966/185402976-0b35eaca-d59b-4afb-ab01-bc72fb0772dd.png">
 
-變更xiou's camp裡的readMe
-
-??? 不要亂新增
